@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @richardforjoe
-- 👀 I’m interested in ...tech, photography, design
-- 🌱 I’m currently learning ...concourse ci
-- 💞️ I’m looking to collaborate on ...cypress automatin , pipelines, open source projects
-- 📫 How to reach me ...twitter: rforjoe
+- 👀 I’m interested in ...tech, photography, design, games
+- 🌱 I’m currently learning ...concourse ci, python
+- 💞️ I’m looking to collaborate on ...cypress automation , pipelines, open source projects
+- 📫 How to reach me ...twitter: rforjoe, linkedin: https://www.linkedin.com/in/richardforjoe/
+- 📫 How to reach me ...photography: http://richardforjoephotography.mystrikingly.com/
 
 <!---
 richardforjoesky/richardforjoesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
