@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @richardforjoe
-- 👀 I’m interested in ...tech, photography, design, games
-- 🌱 I’m currently learning ...concourse ci, python
+- 👀 I’m interested in ...testing, tech, photography, design, games
+- 🌱 I’m currently learning ...concourse ci, python, aws
 - 💞️ I’m looking to collaborate on ...cypress automation , pipelines, open source projects
-- 📫 How to reach me ...twitter: rforjoe, linkedin: https://www.linkedin.com/in/richardforjoe/
 - 📫 How to reach me ...photography: http://richardforjoephotography.mystrikingly.com/
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rforjoe)
@@ -14,13 +13,21 @@
 I work at Sky as a Senior Test Engineer
 
 const Richard_Forjoe = { 
+
 pronouns: "He | Him", 
+
 learning: "I am learning TypeScript", 
+
 code: ["Javascript", "Typescript", "Java", "CSS"], 
+
 askMeAbout: ["Test Advocate", "tech", "Context Tester", "Automation", "photography"], 
+
 domainExperience: ["Mulesoft", "Oracle webcentre sites", "B Billing & Payments", "Oracle Document management", "Credit Account Information Sharing (CAIS)", "ERP", "Web Services", "Contact Centre","Infrastructure/Transitions"], 
+
 industryExperience: ["Central Government", "Local government", "Telecoms", "Utilities", "Non-profit", "Financial services", "Media & Broadcasting"], 
+
 technologies: { mulesoft: ["Munit"], frontEnd: { js: ["Vue", "Nuxt"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳"], databases: ["oracle","mongo", "MySql", "sqlite"], misc: ["Jest", "selenium", "Cypress"] }, architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], 
+
 currentProject: "I am doing all things testing for Sky Q, Sky glass, Sky Sports app" };
 
 <!---
