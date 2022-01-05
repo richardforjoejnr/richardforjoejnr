@@ -10,23 +10,23 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rforjoe)
 [![Linkedin](https://img.shields.io/badge/linkedin-30077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardforjoe/)
 
-I work at Sky as a Senior Test Engineer
+I work at Sky as a Senior Test Engineer. Kudos to the TV apps Teams
 
 const Richard_Forjoe = { 
 
 pronouns: "He | Him", 
 
-learning: "I am learning TypeScript", 
-
 code: ["Javascript", "Typescript", "Java", "CSS"], 
 
 askMeAbout: ["Test Advocate", "tech", "Context Tester", "Automation", "photography"], 
 
-domainExperience: ["Mulesoft", "Oracle webcentre sites", "B Billing & Payments", "Oracle Document management", "Credit Account Information Sharing (CAIS)", "ERP", "Web Services", "Contact Centre","Infrastructure/Transitions"], 
+domainExperience: ["Mulesoft", "Oracle webcentre sites", "B Billing & Payments", "Oracle Document management", "Credit Account Information Sharing (CAIS)", "ERP", "Web Services", "Contact Centre","Infrastructure/Transitions", "TV Apps"], 
 
 industryExperience: ["Central Government", "Local government", "Telecoms", "Utilities", "Non-profit", "Financial services", "Media & Broadcasting"], 
 
-technologies: { mulesoft: ["Munit"], frontEnd: { js: ["Vue", "Nuxt"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳"], databases: ["oracle","mongo", "MySql", "sqlite"], misc: ["Jest", "selenium", "Cypress"] }, architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], 
+technologies: { mulesoft: ["Munit"], frontEnd: { js: ["Vue", "Next", "Lightning.io"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳", "Gitlab CI", "Concourse CI"], databases: ["oracle","mongoDB", "MySql", "sqlite"], misc: ["Jest", "selenium", "Cypress"] }, 
+
+architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], 
 
 currentProject: "I am doing all things testing for Sky Q, Sky glass, Sky Sports app" };
 
