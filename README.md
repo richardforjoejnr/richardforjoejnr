@@ -1,4 +1,4 @@
-[![Richards's GitHub Banner](./My project.png)](https://twitter.com/rforjoe)
+[![Richards's GitHub Banner](./GitHubHeader.png)](https://twitter.com/rforjoe)
 
 - 👋 Hi, I’m @richardforjoe
 - 👀 I’m interested in ...testing, tech, photography, design, games
