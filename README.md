@@ -1,18 +1,18 @@
 [![Richards's GitHub Banner](./GitHubHeader.png)](https://twitter.com/rforjoe)
 
-- 👋 Hi, I’m @richardforjoe
-- 👀 I’m interested in ...testing, tech, photography, design, games
-- 🌱 I’m currently learning ...concourse ci, python, aws
-- 💞️ I’m looking to collaborate on ...cypress automation , pipelines, open source projects
-- 📫 How to reach me ...photography: http://richardforjoephotography.mystrikingly.com/
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rforjoe)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardforjoesky)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rforjoe@live.co.uk)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rforjoe)
 [![Linkedin](https://img.shields.io/badge/linkedin-30077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardforjoe/)
 
-I work at Sky as a Senior Test Engineer. Kudos to the TV apps Teams
+- 👋 Hi, I’m Richard, I work at Sky as a Senior Test Engineer, involved in all things testing throughout my career.  Kudos to the TV apps Teams
+- 👀 I’m interested in ...testing, tech, photography, design, games
+- 🌱 I’m currently learning ...concourse ci, python, aws
+- 💞️ I’m looking to collaborate on ...cypress automation , pipelines, open source projects
+- 📫 How to reach me ...photography: http://richardforjoephotography.mystrikingly.com/
+
+
 
 const Richard_Forjoe = { 
 
