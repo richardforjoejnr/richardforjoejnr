@@ -5,6 +5,10 @@
 - 📫 How to reach me ...twitter: rforjoe, linkedin: https://www.linkedin.com/in/richardforjoe/
 - 📫 How to reach me ...photography: http://richardforjoephotography.mystrikingly.com/
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rforjoe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardforjoesky)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rforjoe@live.co.uk)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rforjoe)
 <!---
 richardforjoesky/richardforjoesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
