@@ -26,7 +26,7 @@ domainExperience: ["Mulesoft", "Oracle webcentre sites", "B Billing & Payments",
 
 industryExperience: ["Central Government", "Local government", "Telecoms", "Utilities", "Non-profit", "Financial services", "Media & Broadcasting"], 
 
-technologies: { mulesoft: ["Munit"], frontEnd: { js: ["Vue", "Next", "Lightning.io"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳", "Gitlab CI", "Concourse CI"], databases: ["oracle","mongoDB", "MySql", "sqlite"], misc: ["Jest", "selenium", "Cypress"] }, 
+technologies: { mulesoft: ["Munit"], frontEnd: { js: ["Vue", "React","Lightningjs.io"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳", "Gitlab CI", "Concourse CI"], databases: ["oracle","mongoDB", "MySql", "sqlite"], misc: ["Jest", "selenium", "Cypress"] }, 
 
 architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], 
 
