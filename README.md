@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning ...concourse ci, python, aws, more js
 - 💞️ I’m looking to collaborate on ...testing, automation , pipelines, open source projects
 - 📫 How to reach me, see above. also ...photography: http://richardforjoephotography.mystrikingly.com/
+- 💞️ I enjoy Street photography: https://www.instagram.com/forjoe_streets/ and Portraits(Stranges | Models): https://www.instagram.com/forjoe_ports/
 
 
 
@@ -18,7 +19,7 @@ const Richard_Forjoe = {
 
 pronouns: "He | Him", 
 
-code: ["Javascript", "Typescript", "Java", "CSS", "SQL", "YAML"], 
+code: ["Javascript", "Typescript", "Java", "CSS", "SQL"], 
 
 askMeAbout: ["Test Advocate", "tech", "Context Tester", "Automation", "photography"], 
 
