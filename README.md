@@ -21,13 +21,13 @@ pronouns: "He | Him",
 
 code: ["Javascript", "Typescript", "Java", "CSS", "SQL"], 
 
-askMeAbout: ["Test Advocate", "tech", "Context Tester", "Automation", "photography"], 
+askMeAbout: ["Test Advocate", "Tech", "Context Tester", "Automation", "Photography"], 
 
 domainExperience: ["Mulesoft", "Oracle webcentre sites", "B Billing & Payments", "Oracle Document management", "Credit Account Information Sharing (CAIS)", "ERP", "Web Services", "Contact Centre","Infrastructure/Transitions", "TV Apps"], 
 
 industryExperience: ["Central Government", "Local government", "Telecoms", "Utilities", "Non-profit", "Financial services", "Media & Broadcasting", "B2B & B2C"], 
 
-technologies: { mulesoft: ["Munit"], frontEnd: { js: ["Vue", "React","Lightningjs.io"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳", "Gitlab CI", "Concourse CI"], databases: ["oracle","mongoDB", "MySql", "sqlite"], misc: ["Jest", "selenium", "Cypress"] }, 
+technologies: { mulesoft: ["Munit"], frontEnd: { js: ["React","Lightningjs.io"], }, backEnd: { js-ts: ["node", "express"], webservice: ["GraphQL", "REST", "SOAP"], mulesoft: ["RAML", "Munit"] }, devOps: ["AWS", "Docker🐳", "Gitlab CI", "Concourse CI"], databases: ["oracle","mongoDB", "MySql", "sqlite"], misc: ["Jest", "Vitest","selenium", "Cypress"] }, 
 
 architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], 
 
