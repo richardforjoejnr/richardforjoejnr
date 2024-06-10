@@ -6,9 +6,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rforjoe)
 [![Linkedin](https://img.shields.io/badge/linkedin-30077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardforjoe/)
 
-- 👋 Hi, I’m Richard, I work at Sky as a Principal Test Engineer, involved in all things testing throughout my career.  Kudos to the TV apps Teams, such a great team to work in.
+- 👋 Hi, I’m Richard, I work at VoCoVo as a Lead Test Engineer, involved in all things testing throughout my career.
 - 👀 I’m interested in ...testing, tech, photography, design, games
-- 🌱 I’m currently learning ...concourse ci, python, aws, more js
+- 🌱 I’m currently learning ...azure, aws, github actions, concourse ci, python, more js
 - 💞️ I’m looking to collaborate on ...testing, automation , pipelines, open source projects
 - 📫 How to reach me, see above. also ...photography: http://richardforjoephotography.mystrikingly.com/
 - 💞️ I enjoy Street photography: https://www.instagram.com/forjoe_streets/ and Portraits(Stranges | Models): https://www.instagram.com/forjoe_ports/
@@ -31,10 +31,10 @@ technologies: { mulesoft: ["Munit"], frontEnd: { js: ["React","Lightningjs.io"],
 
 architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], 
 
-currentProject: "I am doing all things testing for Sky Q, Sky glass, TV apps using lightingjs.io" };
+currentProject: "I am doing all things testing for VoCoVo" };
 
 <!---
-richardforjoesky/richardforjoesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+richardforjoejnr/richardforjoejnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -55,4 +55,4 @@ You can click the Preview link to take a look at your changes.
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-![Richard Forjoe's Github Stats](https://metrics.lecoq.io/richardforjoesky)
+![Richard Forjoe's Github Stats](https://metrics.lecoq.io/richardforjoejnr)
