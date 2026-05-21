@@ -19,7 +19,7 @@ const Richard_Forjoe = {
 
 pronouns: "He | Him", 
 
-code: ["Javascript", "Typescript", "Java", "CSS", "SQL"], 
+code: ["Javascript", "Typescript", "Java"], 
 
 askMeAbout: ["Test Advocate", "Tech", "Context Tester", "Automation", "Photography"], 
 
