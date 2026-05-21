@@ -55,4 +55,5 @@ You can click the Preview link to take a look at your changes.
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-![Richard Forjoe's Github Stats](https://metrics.lecoq.io/richardforjoejnr)
+  
+![Contribution graph](https://ghchart.rshah.org/richardforjoejnr)
