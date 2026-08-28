@@ -12,11 +12,11 @@ and engineering feedback loops across cloud, edge and connected systems.
 
 20+ years across connected hardware, cloud services, APIs and web platforms. I specialise in making
 complex systems **testable** — improving observability, controllability and reproducibility so teams
-find expensive failures early rather than in production. Currently leading a team of 6 testers across
+find expensive failures early. Currently looking after testing across
 Linux edge controllers, backend services and React front ends supporting 8,000+ retail locations and
 100,000+ users.
 
-- 🔭 **Currently:** Linux controller automation (Vitest + TypeScript), and leading a Cypress → Playwright migration
+- 🔭 **Currently:** leading a Cypress → Playwright migration and Linux controller automation (Vitest + TypeScript)
 - 🌱 **Learning:** Kubernetes, Docker orchestration for test environments, agentic architecture (Claude Certified Architect – Foundations, in progress)
 - 🤝 **Happy to collaborate on:** test architecture, automation frameworks, CI/CD pipelines, open source
 - 💬 **Ask me about:** testability, risk-based testing, Playwright, contract testing, automation strategy
