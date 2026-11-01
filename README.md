@@ -81,15 +81,6 @@ const richardForjoe = {
 | [post-to-slack](https://github.com/richardforjoejnr/post-to-slack) | Automates posting test reports to Slack |
 | [ts-code-snippets](https://github.com/richardforjoejnr/ts-code-snippets) | My TypeScript snippets |
 
-## 🐛 Issues I've raised upstream
-
-Bugs and questions I've reported against the tools I use day to day:
-
-- [microsoft/playwright#33085](https://github.com/microsoft/playwright/issues/33085) — `routeWebSocket` does not handle full URLs *(fixed)*
-- [cucumber/common#2152](https://github.com/cucumber/common/issues/2152) — incorrect status reported for skipped / pending / failed steps *(fixed)*
-- [badeball/cypress-cucumber-preprocessor#1052](https://github.com/badeball/cypress-cucumber-preprocessor/issues/1052) — same status-reporting issue, downstream
-- [lerna/lerna#3063](https://github.com/lerna/lerna/issues/3063) — versioning a package without bumping its dependencies
-
 ## ✍️ Writing
 
 I write about test architecture, locator strategy and engineering practice on
