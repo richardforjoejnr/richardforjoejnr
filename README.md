@@ -75,9 +75,7 @@ const richardForjoe = {
 
 | Repo | What it is |
 | --- | --- |
-| [device-test-framework](https://github.com/richardforjoejnr/device-test-framework) | On-device integration test framework — runs tests directly on edge hardware via self-hosted GitHub Actions runners and a privileged test container |
-| [contract-testing-lab](https://github.com/richardforjoejnr/contract-testing-lab) | Hands-on lab for consumer-driven contract testing |
-| [aws-cdk-boilerplate](https://github.com/richardforjoejnr/aws-cdk-boilerplate) | AWS Lambda & Step Functions boilerplate with CDK infrastructure for multi-environment deployment |
+| [oware](https://github.com/richardforjoejnr/oware) | Native iOS games from Ghana — **Lelu Oware** (Oware, Abapa rules, with AI opponent) and **Lelu Ludo** — in a Swift monorepo with shared engines and CI/CD release lanes · [leluoware.com](https://leluoware.com/) |
 | [ws-mock-server-cypress](https://github.com/richardforjoejnr/ws-mock-server-cypress) | Demo of a WebSocket mock server integrated with Cypress |
 | [post-to-slack](https://github.com/richardforjoejnr/post-to-slack) | Automates posting test reports to Slack |
 | [ts-code-snippets](https://github.com/richardforjoejnr/ts-code-snippets) | My TypeScript snippets |
