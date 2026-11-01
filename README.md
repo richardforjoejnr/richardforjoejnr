@@ -75,7 +75,6 @@ const richardForjoe = {
 
 | Repo | What it is |
 | --- | --- |
-| [oware](https://github.com/richardforjoejnr/oware) | Native iOS games from Ghana — **Lelu Oware** (Oware, Abapa rules, with AI opponent) and **Lelu Ludo** — in a Swift monorepo with shared engines and CI/CD release lanes · [leluoware.com](https://leluoware.com/) |
 | [ws-mock-server-cypress](https://github.com/richardforjoejnr/ws-mock-server-cypress) | Demo of a WebSocket mock server integrated with Cypress |
 | [post-to-slack](https://github.com/richardforjoejnr/post-to-slack) | Automates posting test reports to Slack |
 | [ts-code-snippets](https://github.com/richardforjoejnr/ts-code-snippets) | My TypeScript snippets |
