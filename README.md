@@ -75,6 +75,8 @@ const richardForjoe = {
 
 | Repo | What it is |
 | --- | --- |
+| [Lelu Ludo](https://apps.apple.com/app/lelu-ludo/id6818915279) | Ludo as it is played in Ghana — native iOS game, available on the App Store |
+| Lelu Oware | Ghana's game of Oware (Abapa rules) with an AI opponent — native iOS game, App Store release coming soon |
 | [ws-mock-server-cypress](https://github.com/richardforjoejnr/ws-mock-server-cypress) | Demo of a WebSocket mock server integrated with Cypress |
 | [post-to-slack](https://github.com/richardforjoejnr/post-to-slack) | Automates posting test reports to Slack |
 | [ts-code-snippets](https://github.com/richardforjoejnr/ts-code-snippets) | My TypeScript snippets |
